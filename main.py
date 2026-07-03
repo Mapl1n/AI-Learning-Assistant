@@ -10,7 +10,7 @@ from PySide6.QtGui import QTextCursor
 from PySide6.QtGui import *
 
 # ========== 配置 ==========
-API_KEY = "sk-806ecf8b5a0e419b93cddb27122a848d"  # 替换成你的真实Key
+API_KEY = ""  # 替换成你的真实Key
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 数据存储目录
